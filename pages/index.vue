@@ -5,6 +5,7 @@
       <h1 class="title">
         HeavenAcc
       </h1>
+      <nuxt-link class="button--green" to="test">test page</nuxt-link>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
