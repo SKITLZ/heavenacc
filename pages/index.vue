@@ -6,16 +6,6 @@
         HeavenAcc
       </h1>
       <nuxt-link class="button--green" to="test">test page</nuxt-link>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-      </div>
     </div>
   </div>
 </template>
